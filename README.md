@@ -10,7 +10,7 @@ ttkthemes for Python
 [EXE archive, with console](https://github.com/Pixelsuft/happy-wheels-picture-to-xml-data/releases/download/v1.0-alpha/hw_picture.exe)<br />
 [EXE archive, without console](https://github.com/Pixelsuft/happy-wheels-picture-to-xml-data/#)<br />
 [RAR archive, with console](https://github.com/Pixelsuft/happy-wheels-picture-to-xml-data/#)<br />
-[RAR archive, withot console](https://github.com/Pixelsuft/happy-wheels-picture-to-xml-data/#)
+[RAR archive, without console](https://github.com/Pixelsuft/happy-wheels-picture-to-xml-data/#)
 # ChromaKey Examples
 "" - empty<br />
 "#ff00ff" - hex<br />
