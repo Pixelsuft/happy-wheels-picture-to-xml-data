@@ -7,7 +7,10 @@ Pillow for Python<br />
 ttkthemes for Python
 # Downloads
 [Source code](https://github.com/Pixelsuft/happy-wheels-picture-to-xml-data/archive/v1.0-alpha.zip)<br />
-[Exe archive, with console](https://github.com/Pixelsuft/happy-wheels-picture-to-xml-data/releases/download/v1.0-alpha/hw_picture.exe)
+[EXE archive, with console](https://github.com/Pixelsuft/happy-wheels-picture-to-xml-data/releases/download/v1.0-alpha/hw_picture.exe)<br />
+[EXE archive, without console](https://github.com/Pixelsuft/happy-wheels-picture-to-xml-data/#)<br />
+[RAR archive, with console](https://github.com/Pixelsuft/happy-wheels-picture-to-xml-data/#)<br />
+[RAR archive, withot console](https://github.com/Pixelsuft/happy-wheels-picture-to-xml-data/#)
 # ChromaKey Examples
 "" - empty<br />
 "#ff00ff" - hex<br />
